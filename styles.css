@@ -6,3 +6,11 @@ img {
     width: 400;
     height: 600;
 }
+
+.green {
+    background-color: #008000;
+}
+
+.orange {
+    background-color: rgb(255, 165, 0);
+}
