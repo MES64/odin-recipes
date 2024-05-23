@@ -1,5 +1,6 @@
 body {
     background-color: hsla(219, 79%, 66%, 0.5);
+    font-family: Monaco, monospace;
 }
 
 h1 {
