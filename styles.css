@@ -12,6 +12,10 @@ img {
     height: 600;
 }
 
+#home {
+    text-align: center;
+}
+
 .green {
     background-color: #008000;
 }
