@@ -16,12 +16,37 @@ img {
     text-align: center;
 }
 
+.recipes-list {
+    padding: 0;
+}
+
+.recipes-list li {
+    list-style-type: none;
+    width: 60%;
+    height: 120px;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+
+.recipes-list li a {
+    text-decoration: none;
+    color: hsl(218, 100%, 91%);
+    font-weight: bold;
+}
+
 .green {
     background-color: #008000;
+    border: 5px dashed red;
 }
 
 .orange {
     background-color: rgb(255, 165, 0);
+    margin-left: auto;
+    border: 5px dotted rebeccapurple;
+}
+
+.orange span {
+    color: red;
 }
 
 .small {
